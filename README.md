@@ -1,2 +1,16 @@
-# genai4genz-learning-path-ai-agent
-An AI Agent that creates personalized learning paths for Gen-Z based on goals, time, and skill level.
+# Gen-Z Learning Path AI Agent
+
+## Overview
+An autonomous AI agent that creates personalized learning paths based on user goals, skill level, and time availability.
+
+## Why AI Agent?
+The system makes independent decisions using defined logic rather than responding statically like a chatbot.
+
+## How It Works
+- Collects user inputs
+- Applies decision rules
+- Generates adaptive learning roadmap
+
+## Folder Structure
+- src/: agent logic
+- docs/: architecture, flow, decisions, innovation
