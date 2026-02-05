@@ -14,3 +14,6 @@ The system makes independent decisions using defined logic rather than respondin
 ## Folder Structure
 - src/: agent logic
 - docs/: architecture, flow, decisions, innovation
+
+## Creative Feature
+This agent uniquely adapts learning plans based on time scarcity, a common Gen-Z constraint, enabling realistic and sustainable learning paths.
