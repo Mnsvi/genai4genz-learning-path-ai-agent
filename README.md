@@ -17,3 +17,14 @@ The system makes independent decisions using defined logic rather than respondin
 
 ## Creative Feature
 This agent uniquely adapts learning plans based on time scarcity, a common Gen-Z constraint, enabling realistic and sustainable learning paths.
+
+## Project Documentation
+
+Detailed project documentation is available in the `/docs` folder of this repository:
+
+
+- Agent Flow: `docs/agent_flow.md`
+- Architecture: `docs/architecture.md`
+- Decision Logic: `docs/decision_logic.md`
+- Innovation: `docs/innovation.md`
+
